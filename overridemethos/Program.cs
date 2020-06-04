@@ -38,7 +38,7 @@ namespace overridemethos
         static void Main(string[] args)
         {
             Console.WriteLine(Power(2));
-            Console.WriteLine(Power(2, 4));
+            Console.WriteLine(Power(2, 3));
             Console.WriteLine(SumAll(3));
             Console.WriteLine(SumAll(1, 4));
 
